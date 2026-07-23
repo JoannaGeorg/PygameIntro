@@ -1,1 +1,3 @@
 This is just a trial file added to attempt merge conflicts.
+
+This needs to work or else a crash out is imminent.
