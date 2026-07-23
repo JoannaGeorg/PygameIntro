@@ -1,3 +1,4 @@
 This is just a trial file added to attempt merge conflicts.
 
 Adding this line for the feature-conflict branch
+This needs to work or else a crash out is imminent.
