@@ -53,8 +53,8 @@ class Obstacle(pygame.sprite.Sprite):
 			self.frames = [fly_1,fly_2]
 			y_pos = 210
 		else:
-			snail_1 = pygame.image.load('graphics/snail/snail1.png').convert_alpha()
-			snail_2 = pygame.image.load('graphics/snail/snail2.png').convert_alpha()
+			snail_1 = pygame.image.load('graphics/snail/Rock2.png').convert_alpha()
+			snail_2 = pygame.image.load('graphics/snail/Rock2.png').convert_alpha()
 			self.frames = [snail_1,snail_2]
 			y_pos  = 300
 
